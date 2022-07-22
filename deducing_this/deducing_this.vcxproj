@@ -77,6 +77,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <DisableLanguageExtensions>true</DisableLanguageExtensions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -91,6 +93,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <DisableLanguageExtensions>true</DisableLanguageExtensions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -121,6 +125,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <DisableLanguageExtensions>true</DisableLanguageExtensions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
